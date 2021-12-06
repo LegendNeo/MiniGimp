@@ -1,4 +1,4 @@
 # MiniGimp
 Small python code to edit RGB and greyscale pictures with different filters/methods.
-![Uploading image.png…]()
+![1](https://github.com/LegendNeo/MiniGimp/blob/master/ "Calculator")
 
