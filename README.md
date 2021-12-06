@@ -5,6 +5,10 @@
 ## Requirements
 
 You need a recent version of python installed, at least python 3.9
+You also need to have pip installed 
 
-## Install
+## Description
+```
+python3 minigimp.py --br 2 --th 100 picture.jpg
+```
 
